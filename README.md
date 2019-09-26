@@ -4,7 +4,7 @@
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Белова Ольга](https://github.com/obelova) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/12?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/12) |
 | [Бородулина Александра](https://github.com/AlexBorodulina) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/4?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/4) |
-| [Ботникова Лиза](https://github.com/botnikovaliza) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/3?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/3) |
+| [Ботникова Елизавета](https://github.com/botnikovaliza) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/3?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/3) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.1_LorentzVector/1?label=)](https://github.com/pycpp2019/1.1_LorentzVector/pull/1) |
 | [Давыдов Николай](https://github.com/ndavnvl) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/1?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/1) |
 | [Дмитриев Максим](https://github.com/Dmitriev18309) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/10?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/10) |
 | [Рева Станислав](https://github.com/Futhepr) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/5?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/5) |
