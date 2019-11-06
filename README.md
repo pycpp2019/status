@@ -26,7 +26,7 @@ __\*__ *Задача 0.1 является пробной и не учитыва�
 | [Ботникова Елизавета](https://github.com/botnikovaliza) |
 | [Давыдов Николай](https://github.com/ndavnvl) |
 | [Дмитриев Максим](https://github.com/Dmitriev18309) |
-| [Рева Станислав](https://github.com/Futhepr) |
+| [Рева Станислав](https://github.com/Futhepr) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/1?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/1) |
 | [Сараева Карина](https://github.com/KarinaSaraeva) |
 | [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) |
 | [Соловьёв Сергей](https://github.com/Solovev-Sergey) |
