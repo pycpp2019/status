@@ -19,13 +19,13 @@ __\*__ *Задача 0.1 является пробной и не учитыва�
 
 
 ## Python
-| Студент \ Задача | [2.1](https://github.com/pycpp2019/2.1_PrimeNumbers) | 2.2.1 | 2.2.2 | 2.2.3 | 2.2.4 | 2.3 | 2.4 |
+| Студент \ Задача | [2.1](https://github.com/pycpp2019/2.1_PrimeNumbers) | [2.2.1](https://github.com/pycpp2019/2.2.1_Numpy) | 2.2.2 | [2.2.3](https://github.com/pycpp2019/2.2.3_GameOfLife) | 2.2.4 | [2.3](https://github.com/pycpp2019/2.3_OneLiners) | 2.4 |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Белова Ольга](https://github.com/obelova) |
 | [Бородулина Александра](https://github.com/AlexBorodulina) |
-| [Ботникова Елизавета](https://github.com/botnikovaliza) |
+| [Ботникова Елизавета](https://github.com/botnikovaliza) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/3?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/3) |
 | [Давыдов Николай](https://github.com/ndavnvl) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/2?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/2) | | | | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/2?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/2) |
-| [Дмитриев Максим](https://github.com/Dmitriev18309) |
+| [Дмитриев Максим](https://github.com/Dmitriev18309) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/4?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/4) | | | | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/3?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/3) |
 | [Рева Станислав](https://github.com/Futhepr) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/1?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/1) | | | | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/1?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/1) |
 | [Сараева Карина](https://github.com/KarinaSaraeva) |
 | [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) |
