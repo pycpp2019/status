@@ -1,7 +1,7 @@
 # Статус заданий
 
 ## C++
-| Студент \ Задача | [0.1](https://github.com/pycpp2019/0.1_Fibonacci)\* | [1.1](https://github.com/pycpp2019/1.1_LorentzVector) | [1.2](https://github.com/pycpp2019/1.2_LorentzVector) | [1.3](https://github.com/pycpp2019/1.3_ArrayStat) | [1.4](https://github.com/pycpp2019/1.4_BraceChecker) | [1.5](https://github.com/pycpp2019/1.5_ClassHierarchy) | [1.6](https://github.com/pycpp2019/1.6_SymbolicArithmetic) |
+| Студент \ Задача | [0.1](https://github.com/pycpp2019/0.1_Fibonacci)\* | [1.1](https://github.com/pycpp2019/1.1_LorentzVector) | [1.2](https://github.com/pycpp2019/1.2_LorentzVector) | [1.3](https://github.com/pycpp2019/1.3_ArrayStat) | [1.4](https://github.com/pycpp2019/1.4_BraceChecker) | [1.5](https://github.com/pycpp2019/1.5_ClassHierarchy)\*\* | [1.6](https://github.com/pycpp2019/1.6_SymbolicArithmetic)\*\* |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Белова Ольга](https://github.com/obelova) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/12?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/12) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.1_LorentzVector/4?label=)](https://github.com/pycpp2019/1.1_LorentzVector/pull/4) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.2_LorentzVector/4?label=)](https://github.com/pycpp2019/1.2_LorentzVector/pull/4) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.3_ArrayStat/8?label=)](https://github.com/pycpp2019/1.3_ArrayStat/pull/8) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.4_BraceChecker/7?label=)](https://github.com/pycpp2019/1.4_BraceChecker/pull/7) |
 | [Бородулина Александра](https://github.com/AlexBorodulina) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/4?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/4) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.1_LorentzVector/10?label=)](https://github.com/pycpp2019/1.1_LorentzVector/pull/10) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.2_LorentzVector/9?label=)](https://github.com/pycpp2019/1.2_LorentzVector/pull/9) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.3_ArrayStat/7?label=)](https://github.com/pycpp2019/1.3_ArrayStat/pull/7) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/1.4_BraceChecker/6?label=)](https://github.com/pycpp2019/1.4_BraceChecker/pull/6) |
@@ -16,6 +16,8 @@
 | [Эвиев Андрей](https://github.com/cerealsnonemilk) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/0.1_Fibonacci/7?label=)](https://github.com/pycpp2019/0.1_Fibonacci/pull/7) |
 
 __\*__ *Задача 0.1 является пробной и не учитывается при подсчёте общего количества сданных заданий. Она нужна только чтобы научиться сдавать задания через Github. Эту задачу можно не делать.*
+
+__\*\*__ *Можно сделать на выбор одну из этих задач - __1.5__ либо __1.6__*
 
 
 ## Python
