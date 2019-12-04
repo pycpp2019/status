@@ -21,7 +21,7 @@ __\*\*__ *Можно сделать на выбор одну из этих за�
 
 
 ## Python
-| Студент \ Задача | [2.1](https://github.com/pycpp2019/2.1_PrimeNumbers) | [2.2.1](https://github.com/pycpp2019/2.2.1_Numpy) | 2.2.2 | [2.2.3](https://github.com/pycpp2019/2.2.3_GameOfLife) | 2.2.4 | [2.3](https://github.com/pycpp2019/2.3_OneLiners) | 2.4 |
+| Студент \ Задача | [2.1](https://github.com/pycpp2019/2.1_PrimeNumbers) | [2.2.1](https://github.com/pycpp2019/2.2.1_Numpy) | [2.2.2](https://github.com/pycpp2019/2.2.2_MonteCarlo) | [2.2.3](https://github.com/pycpp2019/2.2.3_GameOfLife) | 2.2.4 | [2.3](https://github.com/pycpp2019/2.3_OneLiners) | 2.4 |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Белова Ольга](https://github.com/obelova) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/6?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/6) | | | | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/4?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/4) |
 | [Бородулина Александра](https://github.com/AlexBorodulina) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/5?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/5) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/3?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/3) || [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/3?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/3) |
