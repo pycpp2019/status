@@ -24,12 +24,44 @@ __\*__ *Задача 0.1 является пробной и не учитыва�
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Белова Ольга](https://github.com/obelova) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/6?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/6) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/4?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/4) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/6?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/6) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/4?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/4) |
 | [Бородулина Александра](https://github.com/AlexBorodulina) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/5?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/5) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/3?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/3) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/3?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/3) | |  [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/6?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/6) |
-| [Ботникова Елизавета](https://github.com/botnikovaliza) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/3?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/3) | | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/4?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/4) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/5?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/5) |
+| [Ботникова Елизавета](https://github.com/botnikovaliza) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/3?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/3) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/8?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/8) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/4?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/4) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/5?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/5) |
 | [Давыдов Николай](https://github.com/ndavnvl) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/2?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/2) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/2?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/2) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/2?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/2) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/2?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/2) |
 | [Дмитриев Максим](https://github.com/Dmitriev18309) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/4?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/4) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/5?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/5) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.2_MonteCarlo/2?label=)](https://github.com/pycpp2019/2.2.2_MonteCarlo/pull/2) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/5?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/5) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/3?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/3) |
 | [Рева Станислав](https://github.com/Futhepr) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/1?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/1) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/1?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/1) |  [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.2_MonteCarlo/3?label=)](https://github.com/pycpp2019/2.2.2_MonteCarlo/pull/3) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/1?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/1) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/1?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/1) |
 | [Сараева Карина](https://github.com/KarinaSaraeva) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/7?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/7) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/6?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/6) | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.3_GameOfLife/7?label=)](https://github.com/pycpp2019/2.2.3_GameOfLife/pull/7) |
 | [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) |
 | [Соловьёв Сергей](https://github.com/Solovev-Sergey) |
-| [Ушакова Наталья](https://github.com/well120) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/8?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/8) |[![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/7?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/7) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.2_MonteCarlo/4?label=)](https://github.com/pycpp2019/2.2.2_MonteCarlo/pull/4) |
+| [Ушакова Наталья](https://github.com/well120) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.1_PrimeNumbers/8?label=)](https://github.com/pycpp2019/2.1_PrimeNumbers/pull/8) |[![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.1_Numpy/7?label=)](https://github.com/pycpp2019/2.2.1_Numpy/pull/7) | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.2.2_MonteCarlo/4?label=)](https://github.com/pycpp2019/2.2.2_MonteCarlo/pull/4) | | | [![](https://img.shields.io/github/pulls/detail/state/pycpp2019/2.3_OneLiners/7?label=)](https://github.com/pycpp2019/2.3_OneLiners/pull/7) |
 | [Эвиев Андрей](https://github.com/cerealsnonemilk) |
+
+## Проект
+
+| Студент | Проект |
+|---|---|
+| [Белова Ольга](https://github.com/obelova) |
+| [Бородулина Александра](https://github.com/AlexBorodulina) |
+| [Ботникова Елизавета](https://github.com/botnikovaliza) |
+| [Давыдов Николай](https://github.com/ndavnvl) |
+| [Дмитриев Максим](https://github.com/Dmitriev18309) |
+| [Рева Станислав](https://github.com/Futhepr) | [Генератор текста на основе цепей Mаркова](https://github.com/Futhepr/Project) |
+| [Сараева Карина](https://github.com/KarinaSaraeva) |
+| [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) |
+| [Соловьёв Сергей](https://github.com/Solovev-Sergey) |
+| [Ушакова Наталья](https://github.com/well120) |
+| [Эвиев Андрей](https://github.com/cerealsnonemilk) |
+
+## Результаты
+
+| Студент | Задачи | Проект | Оценка |
+|---|:-:|:-:|:-:|
+| [Белова Ольга](https://github.com/obelova) | 8 |
+| [Бородулина Александра](https://github.com/AlexBorodulina) | 9 |
+| [Ботникова Елизавета](https://github.com/botnikovaliza) | 9 |
+| [Давыдов Николай](https://github.com/ndavnvl) | **10** |
+| [Дмитриев Максим](https://github.com/Dmitriev18309) | 9 |
+| [Рева Станислав](https://github.com/Futhepr) | 9 | :heavy_check_mark: |
+| [Сараева Карина](https://github.com/KarinaSaraeva) | 8 |
+| [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) | 0 |
+| [Соловьёв Сергей](https://github.com/Solovev-Sergey) | 1 |
+| [Ушакова Наталья](https://github.com/well120) | 8 |
+| [Эвиев Андрей](https://github.com/cerealsnonemilk) | 0 |
