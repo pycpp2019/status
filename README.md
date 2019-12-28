@@ -38,11 +38,11 @@ __\*__ *Задача 0.1 является пробной и не учитыва�
 
 | Студент | Проект |
 |---|---|
-| [Белова Ольга](https://github.com/obelova) |
-| [Бородулина Александра](https://github.com/AlexBorodulina) |
+| [Белова Ольга](https://github.com/obelova) | Игра Сапёр на Python + TK |
+| [Бородулина Александра](https://github.com/AlexBorodulina) | [Текстовый квест](https://github.com/AlexBorodulina/Text_Quest) |
 | [Ботникова Елизавета](https://github.com/botnikovaliza) | [Breakout-like игра с использованием Pygame](https://github.com/botnikovaliza/project) |
-| [Давыдов Николай](https://github.com/ndavnvl) |
-| [Дмитриев Максим](https://github.com/Dmitriev18309) |
+| [Давыдов Николай](https://github.com/ndavnvl) | Классификация [изображений](https://www.kaggle.com/puneet6060/intel-image-classification/data#10004.jpg) с помощью свёрточной нейронной сети на PyTorch |
+| [Дмитриев Максим](https://github.com/Dmitriev18309) | [Генератор текста на основе цепей Маркова](https://github.com/Dmitriev18309/Project_Markov-s_Chains) |
 | [Рева Станислав](https://github.com/Futhepr) | [Генератор текста на основе цепей Mаркова](https://github.com/Futhepr/Project) |
 | [Сараева Карина](https://github.com/KarinaSaraeva) |
 | [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) |
@@ -54,14 +54,14 @@ __\*__ *Задача 0.1 является пробной и не учитыва�
 
 | Студент | Задачи | Проект | Оценка |
 |---|:-:|:-:|:-:|
-| [Белова Ольга](https://github.com/obelova) | **10** | | |
-| [Бородулина Александра](https://github.com/AlexBorodulina) | **10** | | |
+| [Белова Ольга](https://github.com/obelova) | **10** | :heavy_check_mark: | **5** |
+| [Бородулина Александра](https://github.com/AlexBorodulina) | **10** | :heavy_check_mark: | **5** |
 | [Ботникова Елизавета](https://github.com/botnikovaliza) | **10** | :heavy_check_mark: | **5** |
-| [Давыдов Николай](https://github.com/ndavnvl) | **10** | | |
-| [Дмитриев Максим](https://github.com/Dmitriev18309) | **10** | | |
+| [Давыдов Николай](https://github.com/ndavnvl) | **10** | :heavy_check_mark: | **5** |
+| [Дмитриев Максим](https://github.com/Dmitriev18309) | **10** | :heavy_check_mark: | **5** |
 | [Рева Станислав](https://github.com/Futhepr) | **10** | :heavy_check_mark: | **5** |
-| [Сараева Карина](https://github.com/KarinaSaraeva) | **10** | | |
-| [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) | 0 | | |
-| [Соловьёв Сергей](https://github.com/Solovev-Sergey) | 4 | | |
-| [Ушакова Наталья](https://github.com/well120) | **10** | | |
-| [Эвиев Андрей](https://github.com/cerealsnonemilk) | 2 | | |
+| [Сараева Карина](https://github.com/KarinaSaraeva) | **10** | | **4** |
+| [Сельнягин Дмитрий](https://github.com/SelnyaginDmitry) | 0 | | **2** |
+| [Соловьёв Сергей](https://github.com/Solovev-Sergey) | **10** | | **4** |
+| [Ушакова Наталья](https://github.com/well120) | **10** | | **4** |
+| [Эвиев Андрей](https://github.com/cerealsnonemilk) | 2 | | **2** |
